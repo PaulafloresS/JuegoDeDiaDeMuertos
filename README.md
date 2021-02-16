@@ -11,17 +11,17 @@ Este juego fue creado principalmente para el taller de ejercicios de PROTECO. Es
 Para ser inmune la calavera deberá tener una puntuación par en el marcador y los objetos como las velas, las flores de cempasúchil, y las calabazas no podran matarlo hasta que la puntuacion vuelva a ser impar. 
 </p>
 <div align="center">
-	<img src="Imagenes/inmune.jpg" alt="App instalada en el dispositivo móvil" width="300"/>
+	<img src="Imagenes/Inmune.png" alt="App instalada en el dispositivo móvil" width="300"/>
 </div>
 <p align=" justify">
 Cuando la calavera tiene una puntuación impar se volverá mortal y los objetos podrán matarlo. Notemos que la imagen de la calavera cambia cuando se vuelve mortal
 </p>
 <div align="center">
-	<img src="Imagenes/mortal.jpg" alt="App instalada en el dispositivo móvil" width="300"/>
+	<img src="Imagenes/mortal.png" alt="App instalada en el dispositivo móvil" width="300"/>
 </div>
 <p align=" justify">
 Cuando la calavera es mortal es decir la puntuación en el marcador es impar, los objetos que choquen con ella podrán matarla. Y si es así entonces pasará al estado de muerto. Podremos presionar la tecla de espacio para volver a jugar
 </p>
 <div align="center">
-	<img src="Imagenes/muerto.jpg" alt="App instalada en el dispositivo móvil" width="300"/>
+	<img src="Imagenes/Muerto.png" alt="App instalada en el dispositivo móvil" width="300"/>
 </div>
